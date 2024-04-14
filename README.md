@@ -15,5 +15,6 @@ Exploratory Data Analysis<br/>
 
 * Key Insights: Displaying the insights on the neighbourhood by displaying the total booking by month <br/>
 ![](screenshots/Sheet2.png)</br>
-  Also finding the Top 10 Hosts by reviews and displaying the avg price in table and also in the form of bar graph
+
+ * Also finding the Top 10 Hosts by reviews and displaying the avg price in table and also in the form of bar graph
   ![](screenshots/Sheet13.png)</br>
