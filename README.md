@@ -8,4 +8,4 @@ Exploratory Data Analysis<br/>
 
 ### Dashboard<br/>
 * Overview: listings, accomodations available, average price($), average rating, and total reviews info per borough<br/>
-![](screenshots/Dashboard1.png)</br>
+![](screenshots/Dashboard.png)</br>
