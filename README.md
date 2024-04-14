@@ -7,5 +7,11 @@ Exploratory Data Analysis<br/>
 [Tableau](https://github.com/ab39912/AirBNB-Dataset/tree/main/tableau) <br/>
 
 ### Dashboard<br/>
-* Overview: listings, accomodations available, average price($), average rating, and total reviews info per borough<br/>
+* Overview: listings, accomodations available, average price($), average rating, and total reviews info per neighbourhood<br/>
 ![](screenshots/Dashboard.png)</br>
+
+* Filtering: Giving the insight of finding the avg price in each location<br/>
+![](screenshots/Sheet7.png)</br>
+
+* Key Insights: Displaying the insights on the neighbourhood by displaying the total booking by month <br/>
+![](screenshots/Sheet2.png)</br>
