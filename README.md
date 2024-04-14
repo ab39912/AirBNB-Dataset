@@ -6,6 +6,11 @@ Exploratory Data Analysis<br/>
 [Python](https://github.com/ab39912/AirBNB-Dataset/blob/main/python/AirBNB.ipynb) <br/>
 [Tableau](https://github.com/ab39912/AirBNB-Dataset/tree/main/tableau) <br/>
 
+### Viewing the data<br/>
+* Data Cleaning
+* Data Analysis (Q/A)
+* Data Transformation for dashboard visualization<br/>
+
 ### Dashboard<br/>
 * Overview: listings, accomodations available, average price($), average rating, and total reviews info per neighbourhood<br/>
 ![](screenshots/Dashboard.png)</br>
@@ -18,3 +23,9 @@ Exploratory Data Analysis<br/>
 
  * Also finding the Top 10 Hosts by reviews and displaying the avg price in table and also in the form of bar graph
   ![](screenshots/Sheet13.png)</br>
+
+  ### Technologies used<br/>
+* Excel
+* SQL (SQL Server Management Studio)
+* Tableau
+* Python (pandas, seaborn, matplotlib)
