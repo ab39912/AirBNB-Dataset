@@ -27,6 +27,7 @@ Exploratory Data Analysis<br/>
 
   ### Technologies used<br/>
 * Excel
-* SQL (SQL Server Management Studio)
+* SQL 
 * Tableau
+* PowerBi
 * Python (pandas, seaborn, matplotlib)
