@@ -5,6 +5,7 @@ Used the AirBNB data set found on the internet and using various technologies su
 Exploratory Data Analysis<br/>
 [Python](https://github.com/ab39912/AirBNB-Dataset/blob/main/python/AirBNB.ipynb) <br/>
 [Tableau](https://github.com/ab39912/AirBNB-Dataset/tree/main/tableau) <br/>
+[PowerBi](https://github.com/ab39912/AirBNB-Dataset/blob/main/PowerBi/airbnb.pbix) <br/>
 
 ### Viewing the data<br/>
 * Data Cleaning
